@@ -1,0 +1,245 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#wrap{
+    width:690px;
+    height:518px;
+    background: transparent url(../img/game3_bg1.png) no-repeat 0 0;
+    position: relative;
+    overflow:hidden;
+}
+.scene_begin{
+    display: block;
+}
+.scene_begin .rule{
+    width:408px;
+    height:356px;
+    background: transparent url(../img/title_block_rule.png) no-repeat 0 0;
+    position: absolute;
+    left: 25px;
+    top: 20px;
+}
+.scene_begin .animal{
+    width:406px;
+    height:135px;
+    background: transparent url(../img/game3_title_bg2.png) no-repeat 0 0;
+    position: absolute;
+    left: 26px;
+    top: 383px;
+}
+.scene_begin .cake1{
+    width:186px;
+    height:111px;
+    background: transparent url(../img/title_cake1.png) no-repeat 0 0;
+    position: absolute;
+    left: 483px;
+    top: 68px;
+}
+.scene_begin .btn_begin_o{
+    width:186px;
+    height:79px;
+    background: transparent url(../img/btn_start_o.png) no-repeat 0 0;
+    position: absolute;
+    left: 479px;
+    top: 244px;
+}
+.scene_begin .btn_begin{
+    width:186px;
+    height:79px;
+    background: transparent url(../img/btn_start.png) no-repeat 0 0;
+    position: absolute;
+    left: 479px;
+    top: 244px;
+}
+.scene_begin .cake2{
+    width:177px;
+    height:103px;
+    background: transparent url(../img/title_cake2.png) no-repeat 0 0;
+    position: absolute;
+    left: 483px;
+    top: 393px;
+}
+.scene_play{
+    display: none;
+}
+.scene_play .score{
+    width: 233px;
+    height: 71px;
+    background: transparent url(../img/bg_score_c.png) no-repeat 0 0;
+    position: absolute;
+    left: 12px;
+    top: 10px;
+}
+.scene_play .score p{
+    font-size: 19px;
+    color: #603813;
+    padding: 25px 0px 0px 156px;
+}
+.scene_play .sel1{
+    width: 203px;
+    height: 197px;
+    background: transparent url(../img/q1.png) no-repeat 0 0;
+    position: absolute;
+    left: 17px;
+    top: 94px;
+}
+.scene_play .sel2{
+    width: 203px;
+    height: 202px;
+    background: transparent url(../img/q2.png) no-repeat 0 0;
+    position: absolute;
+    left: 236px;
+    top: 88px;
+}
+.scene_play .sel3{
+    width: 203px;
+    height: 202px;
+    background: transparent url(../img/q3.png) no-repeat 0 0;
+    position: absolute;
+    left: 17px;
+    top: 306px;
+}
+.scene_play .sel4{
+    width: 203px;
+    height: 202px;
+    background: transparent url(../img/q4.png) no-repeat 0 0;
+    position: absolute;
+    left: 236px;
+    top: 306px;
+}
+.scene_play .ans div{
+    width: 147px;
+    height: 100px;
+    float: right;
+}
+.scene_play .sel p{
+    font-size: 28px;
+    color: #006838;
+    padding: 115px 0px 0px 0px;
+    text-align: center;
+}
+.scene_play .ans1{
+    width: 214px;
+    height: 117px;
+    background: transparent url(../img/drag_ans1.png) no-repeat 0 0;
+    position: absolute;
+    left: 465px;
+    top: 12px;
+}
+#container1{
+    width:44px;
+    height:44px;
+    left:490px;
+    top:15px;
+    position: absolute;
+}
+.scene_play .ans2{
+    width: 214px;
+    height: 117px;
+    background: transparent url(../img/drag_ans2.png) no-repeat 0 0;
+    position: absolute;
+    left: 465px;
+    top: 134px;
+}
+#container2{
+    width:44px;
+    height:44px;
+    left:490px;
+    top:137px;
+    position: absolute;
+}
+.scene_play .ans3{
+    width: 214px;
+    height: 117px;
+    background: transparent url(../img/drag_ans3.png) no-repeat 0 0;
+    position: absolute;
+    left: 465px;
+    top: 256px;
+}
+#container3{
+    width:44px;
+    height:44px;
+    left:490px;
+    top:259px;
+    position: absolute;
+}
+.scene_play .ans4{
+    width: 214px;
+    height: 117px;
+    background: transparent url(../img/drag_ans4.png) no-repeat 0 0;
+    position: absolute;
+    left: 465px;
+    top: 379px;
+}
+.scene_play .ans p {
+    color: #603813;
+    font-size: 32px;
+    padding-top: 10px;
+    text-align: center;
+	line-height:26px;
+}
+#container4 {
+    width:44px;
+    height:44px;
+    left:490px;
+    top:382px;
+    position: absolute;
+}
+#clock{
+    position: absolute;
+    left: 258px;
+    top: 34px;
+    color: #F5740E;
+    font-size: 21px;
+    font-weight: bold;
+}
+.scene_end{
+    display: none;
+}
+.scene_end .sum{
+    width: 408px;
+    height: 305px;
+    background:transparent url(../img/score_block_c.png) no-repeat 0 0;
+    position: absolute;
+    left: 25px;
+    top: 90px;
+}
+.scene_end .sum p{
+    font-size: 54px;
+    color: #006838;
+    width: 147px;
+    padding: 176px 0px 0px 186px;
+}
+.scene_end .cake11{
+    width:186px;
+    height:111px;
+    background: transparent url(../img/title_cake1.png) no-repeat 0 0;
+    position: absolute;
+    left: 483px;
+    top: 7px;
+}
+.scene_end .mark{
+    width: 126px;
+    height: 126px;
+    background: transparent url(../img/btn_record.png) no-repeat 0 0;
+    position: absolute;
+    left: 509px;
+    top: 124px;
+}
+.scene_end .again{
+    width: 126px;
+    height: 126px;
+    background: transparent url(../img/btn_replay.png) no-repeat 0 0;
+    position: absolute;
+    left: 509px;
+    top: 264px;
+}
+.scene_end .cake22{
+    width:186px;
+    height:111px;
+    background: transparent url(../img/title_cake2.png) no-repeat 0 0;
+    position: absolute;
+    left: 490px;
+    top: 403px;
+}

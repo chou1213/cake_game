@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<question>
+    <title>
+        <no>1</no>
+        <sel1 value="鼻子">nose</sel1>
+        <sel2 value="袋鼠">kagaroo</sel2>
+        <sel3 value="馬">rabbit</sel3>
+        <sel4 value="病">sick</sel4>
+        <ans1 value="1_1.mp3">小白兔</ans1>
+        <ans2 value="1_2.mp3">袋鼠</ans2>
+        <ans3 value="1_3.mp3">鼻子</ans3>
+        <ans4 value="1_4.mp3">病</ans4>
+    </title>
+    <title>
+        <no>2</no>
+        <sel1 value="喉嚨">throat</sel1>
+        <sel2 value="大叫">shout</sel2>
+        <sel3 value="醫生">doctor</sel3>
+        <sel4 value="咳嗽">a cough</sel4>
+        <ans1 value="2_1.mp3">大叫</ans1>
+        <ans2 value="2_2.mp3">醫生</ans2>
+        <ans3 value="2_3.mp3">喉嚨</ans3>
+        <ans4 value="2_4.mp3">咳嗽</ans4>
+    </title>
+    <title>
+        <no>3</no>
+        <sel1 value="ears">耳朵</sel1>
+        <sel2 value="bag">口袋</sel2>
+        <sel3 value="giraffe">長頸鹿</sel3>
+        <sel4 value=" a grey elephant">大灰象</sel4>
+        <ans1 value="3_1.mp3">giraffe</ans1>
+        <ans2 value="3_2.mp3">swim</ans2>
+        <ans3 value="3_3.mp3">ears</ans3>
+        <ans4 value="3_4.mp3">bag</ans4>
+    </title>
+	<title>
+        <no>4</no>
+        <sel1 value="has a hole">穿了洞</sel1>
+        <sel2 value="headache">頭痛</sel2>
+        <sel3 value="inflammation">發炎</sel3>
+        <sel4 value="painful">痛</sel4>
+        <ans1 value="4_1.mp3">painful</ans1>
+        <ans2 value="4_2.mp3">inflammation</ans2>
+        <ans3 value="4_3.mp3">headache</ans3>
+        <ans4 value="4_4.mp3">has a hole</ans4>
+    </title>
+</question>

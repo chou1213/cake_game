@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<question>
+    <title>
+        <no>1</no>
+        <sel1 value="了不起">amazing</sel1>
+        <sel2 value="謝謝">thank you</sel2>
+        <sel3 value="有時">sometimes</sel3>
+        <sel4 value="歡喜">happy</sel4>
+        <ans1 value="1_1.mp3">了不起</ans1>
+        <ans2 value="1_2.mp3">謝謝</ans2>
+        <ans3 value="1_3.mp3">有時</ans3>
+        <ans4 value="1_4.mp3">歡喜</ans4>
+    </title>
+    <title>
+        <no>2</no>
+        <sel1 value="記着">remember</sel1>
+        <sel2 value="大家">we</sel2>
+        <sel3 value="對不起">sorry</sel3>
+        <sel4 value="禮貌">polite</sel4>
+        <ans1 value="2_1.mp3">記着</ans1>
+        <ans2 value="2_2.mp3">大家</ans2>
+        <ans3 value="2_3.mp3">對不起</ans3>
+        <ans4 value="2_4.mp3">禮貌</ans4>
+    </title>
+    <title>
+        <no>3</no>
+        <sel1 value="need">要</sel1>
+        <sel2 value="make mistakes">犯錯</sel2>
+        <sel3 value="help each others">互助</sel3>
+        <sel4 value="repent and reform">改過</sel4>
+        <ans1 value="3_1.mp3">need</ans1>
+        <ans2 value="3_2.mp3">make mistakes</ans2>
+        <ans3 value="3_3.mp3">help each others</ans3>
+        <ans4 value="3_4.mp3">repent and reform</ans4>
+    </title>
+</question>

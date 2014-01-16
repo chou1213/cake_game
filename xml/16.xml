@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<question>
+    <title>
+        <no>1</no>
+        <sel1 value="魚">fish</sel1>
+        <sel2 value="今天">today</sel2>
+        <sel3 value="馬">horse</sel3>
+        <sel4 value="姊姊">older sister</sel4>
+        <ans1 value="1_1.mp3">馬</ans1>
+        <ans2 value="1_2.mp3">魚</ans2>
+        <ans3 value="1_3.mp3">今天</ans3>
+        <ans4 value="1_4.mp3">姊姊</ans4>
+    </title>
+    <title>
+        <no>2</no>
+        <sel1 value="肥豬">a fat pig</sel1>
+        <sel2 value="海裏">in the sea</sel2>
+        <sel3 value="母雞">a mother hen</sel3>
+        <sel4 value="大話歌">a lie song</sel4>
+        <ans1 value="2_1.mp3">大話歌</ans1>
+        <ans2 value="2_2.mp3">母雞</ans2>
+        <ans3 value="2_3.mp3">海裏</ans3>
+        <ans4 value="2_4.mp3">肥豬</ans4>
+    </title>
+    <title>
+        <no>3</no>
+        <sel1 value="walk">走</sel1>
+        <sel2 value="swim">游</sel2>
+        <sel3 value="on the street">街上</sel3>
+        <sel4 value="climb the tree">爬樹</sel4>
+        <ans1 value="3_1.mp3">walk</ans1>
+        <ans2 value="3_2.mp3">swim</ans2>
+        <ans3 value="3_3.mp3">climb the tree</ans3>
+        <ans4 value="3_4.mp3">on the street</ans4>
+    </title>
+	<title>
+        <no>4</no>
+        <sel1 value="clap hands">拍手</sel1>
+        <sel2 value="sing">唱歌</sel2>
+        <sel3 value="hear and see">聽見</sel3>
+        <sel4 value="yesterday night">昨晚</sel4>
+        <ans1 value="4_1.mp3">hear and see</ans1>
+        <ans2 value="4_2.mp3">yesterday night</ans2>
+        <ans3 value="4_3.mp3">sing</ans3>
+        <ans4 value="4_4.mp3">clap hands</ans4>
+    </title>
+</question>

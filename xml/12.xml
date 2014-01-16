@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?><?xml version="1.0" encoding="utf-8" ?>
+<question>
+    <title>
+        <no>1</no>
+        <sel1 value="水清清">water is clean</sel1>
+        <sel2 value="謝謝">sunny</sel2>
+        <sel3 value="送你">give to you</sel3>
+        <sel4 value="天氣">weather</sel4>
+        <ans1 value="1_1.mp3">晴天</ans1>
+        <ans2 value="1_2.mp3">水清清</ans2>
+        <ans3 value="1_3.mp3">天氣</ans3>
+        <ans4 value="1_4.mp3">送你</ans4>
+    </title>
+    <title>
+        <no>2</no>
+        <sel1 value="dragonfly">蜻蜓</sel1>
+        <sel2 value="please">請你</sel2>
+        <sel3 value="do something">做事情</sel3>
+        <sel4 value="today">今天</sel4>
+        <ans1 value="2_1.mp3">dragonfly</ans1>
+        <ans2 value="2_2.mp3">do something</ans2>
+        <ans3 value="2_3.mp3">please</ans3>
+        <ans4 value="2_4.mp3">today</ans4>
+    </title>
+    <title>
+        <no>3</no>
+        <sel1 value="寒冷">cold</sel1>
+        <sel2 value="陰天">cloudy</sel2>
+        <sel3 value="雨天">raining</sel3>
+        <sel4 value="乾燥">dry</sel4>
+        <ans1 value="3_1.mp3">雨天</ans1>
+        <ans2 value="3_2.mp3">寒冷</ans2>
+        <ans3 value="3_3.mp3">陰天</ans3>
+        <ans4 value="3_4.mp3">乾燥</ans4>
+    </title>
+</question>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<question>
+    <title>
+        <no>1</no>
+        <sel1 value="涼風">cool wind</sel1>
+        <sel2 value="夏天">summer</sel2>
+        <sel3 value="秋天">autumn</sel3>
+        <sel4 value="白雲">white cloud</sel4>
+        <ans1 value="1_1.mp3">夏天</ans1>
+        <ans2 value="1_2.mp3">秋天</ans2>
+        <ans3 value="1_3.mp3">白雲</ans3>
+        <ans4 value="1_4.mp3">涼風</ans4>
+    </title>
+    <title>
+        <no>2</no>
+        <sel1 value="太陽">sun</sel1>
+        <sel2 value="飛">flying</sel2>
+        <sel3 value="弟弟">younger brother</sel3>
+        <sel4 value="妹妹 ">younger sister</sel4>
+        <ans1 value="2_1.mp3">飛</ans1>
+        <ans2 value="2_2.mp3">弟弟</ans2>
+        <ans3 value="2_3.mp3">太陽</ans3>
+        <ans4 value="2_4.mp3">妹妹</ans4>
+    </title>
+    <title>
+        <no>3</no>
+        <sel1 value="butterfly">蝴蝶</sel1>
+        <sel2 value="winter">冬天</sel2>
+        <sel3 value="leaves">葉子</sel3>
+        <sel4 value="blue sky">藍天</sel4>
+        <ans1 value="3_1.mp3">butterfly</ans1>
+        <ans2 value="3_2.mp3">winter</ans2>
+        <ans3 value="3_3.mp3">blue sky</ans3>
+        <ans4 value="3_4.mp3">leaves</ans4>
+    </title>
+	<title>
+        <no>4</no>
+        <sel1 value="grandpa">beautiful</sel1>
+        <sel2 value="愛">love</sel2>
+        <sel3 value="春天">spring</sel3>
+        <sel4 value="爺爺">grandpa</sel4>
+        <ans1 value="4_1.mp3">漂亮</ans1>
+        <ans2 value="4_2.mp3">春天</ans2>
+        <ans3 value="4_3.mp3">愛</ans3>
+        <ans4 value="4_4.mp3">爺爺</ans4>
+    </title>
+</question>

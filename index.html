@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <title>cup_game</title>
+    <script type="text/javascript" src="js/jquery-1.7.2.js"></script>
+    <script type="text/javascript" src="js/jquery.jplayer.min.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/main.css"/>
+</head>
+<body>
+<div id="wrap">
+    <div class="scene_begin">
+        <div class="rule"></div>
+        <div class="animal"></div>
+        <div class="cake1"></div>
+        <div class="btn_begin_o"></div>
+        <div class="btn_begin"></div>
+        <div class="cake2"></div>
+    </div>
+    <div class="scene_play">
+        <div class="score"><p>0</p></div>
+        <div class="sel sel1"><p></p></div>
+        <div class="sel sel2"><p></p></div>
+        <div class="sel sel3"><p></p></div>
+        <div class="sel sel4"><p></p></div>
+        <div id="jpId1"></div><div id="jpId2"></div><div id="jpId3"></div><div id="jpId4"></div>
+        <div class="ans ans1 move"><div><p></p></div></div>
+        <div id="container1" class="point">
+            <img class="play1" ondrag="return false" draggable="false" src="img/btn_sound.png"/>
+            <img class="pause1" ondrag="return false" draggable="false" src="img/btn_sound_o.png"/>
+        </div>
+        <div class="ans ans2 move"><div><p></p></div></div>
+        <div id="container2" class="point">
+            <img class="play2" ondrag="return false" draggable="false" src="img/btn_sound.png"/>
+            <img class="pause2" ondrag="return false" draggable="false" src="img/btn_sound_o.png"/>
+        </div>
+        <div class="ans ans3 move"><div><p></p></div></div>
+        <div id="container3" class="point">
+            <img class="play3" ondrag="return false" draggable="false" src="img/btn_sound.png"/>
+            <img class="pause3" ondrag="return false" draggable="false" src="img/btn_sound_o.png"/>
+        </div>
+        <div class="ans ans4 move"><div><p></p></div></div>
+        <div id="container4" class="point">
+            <img class="play4" ondrag="return false" draggable="false" src="img/btn_sound.png"/>
+            <img class="pause4" ondrag="return false" draggable="false" src="img/btn_sound_o.png"/>
+        </div>
+        <div id="clock">
+            <span class="min">1</span><span>:</span><span class="sec">60</span>
+        </div>
+    </div>
+    <div class="scene_end">
+        <div class="sum"><p></p></div>
+        <div class="cake11"></div>
+        <div class="mark"></div>
+        <div class="again"></div>
+        <div class="cake22"></div>
+    </div>
+</div>
+<div id="box" style=" width:690px;height:518px;background-color:black;opacity: 0.7;position: absolute;top: 0px;filter:alpha(opacity=70)">
+    <p style="font-size:26px;text-align: center;line-height: 518px;color:white;">Loading......</p>
+</div>
+
+<p id="test"></p>
+</body>
+</html>

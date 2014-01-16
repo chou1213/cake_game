@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<question>
+    <title>
+        <no>1</no>
+        <sel1 value="大">big</sel1>
+        <sel2 value="帽">cap</sel2>
+        <sel3 value="有禮">polite</sel3>
+        <sel4 value="公雞">cock</sel4>
+        <ans1 value="1_1.mp3">帽</ans1>
+        <ans2 value="1_2.mp3">大</ans2>
+        <ans3 value="1_3.mp3">公雞</ans3>
+        <ans4 value="1_4.mp3">有禮</ans4>
+    </title>
+    <title>
+        <no>2</no>
+        <sel1 value="猴子">monkey</sel1>
+        <sel2 value="老虎">tiger</sel2>
+        <sel3 value="獅子">lion</sel3>
+        <sel4 value="白兔">rabbit</sel4>
+        <ans1 value="2_1.mp3">白兔</ans1>
+        <ans2 value="2_2.mp3">猴子</ans2>
+        <ans3 value="2_3.mp3">老虎</ans3>
+        <ans4 value="2_4.mp3">獅子</ans4>
+    </title>
+    <title>
+        <no>3</no>
+        <sel1 value="crowing">喔喔啼</sel1>
+        <sel2 value="red">紅</sel2>
+        <sel3 value="happy">歡喜</sel3>
+        <sel4 value="sun">太陽</sel4>
+        <ans1 value="3_1.mp3">red</ans1>
+        <ans2 value="3_2.mp3">crowing</ans2>
+        <ans3 value="3_3.mp3">happy</ans3>
+        <ans4 value="3_4.mp3">sun</ans4>
+    </title>
+</question>
